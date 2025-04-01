@@ -154,4 +154,4 @@ This document will undergo a comprehensive review at least annually or sooner if
 
 Any necessary updates will be reviewed and approved by RFK Hospital's IT Security & Compliance Team, ensuring that the security policies remain aligned with both the hospital’s operational needs and evolving regulatory requirements.
 
-Link of Document:https://docs.google.com/document/d/1qlLw3mKcn_aeplEUhIKSgKozzucx5MTUmwl_rXLZ398/edit?tab=t.0
+[Link of Document](https://docs.google.com/document/d/1qlLw3mKcn_aeplEUhIKSgKozzucx5MTUmwl_rXLZ398/edit?tab=t.0)
