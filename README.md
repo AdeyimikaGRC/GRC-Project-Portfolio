@@ -6,15 +6,18 @@ I'm passionate about securing organizations through governance, risk management,
 
 ## What I’ve Achieved So Far
 
-✅ Delivered security awareness training to a group of professional accountants, educating them on cybersecurity risks in finance and equipping them with best practices to protect sensitive financial data.
+✅ Led and delivered security awareness training to a group of professional accountants, educating them on cybersecurity risks in finance and equipping them with best practices to protect sensitive financial data.
 
-✅ Designed privacy policies tailored for influencers, ensuring GDPR/NDPR compliance.
+✅ Designed privacy policies template tailored for influencers and content creators, ensuring GDPR/NDPR compliance and showcasing the importance of data privacy and security.
 
-✅ Conducted an in-depth spear-phishing analysis, identifying five key weaknesses in data protection and employee awareness as part of a group project.
+✅ Collaborated with group members on an in-depth spear-phishing analysis, identifying five key weaknesses and recommending more effective and proactive measures to reduce a reoccurence employee awareness as part of a group project. 
 
-✅ Performed multiple network scans using Nmap, identifying and mitigating security risks to protect sensitive data.
-
-✅ Monitored and analyzed network traffic using Wireshark, detecting over 10 suspicious activities and strengthening the organization's security posture.
+## Certification and Trainings
+- ISC² Certified in Cybersecurity (CC)
+- Women Techsters Bootcamp Cohort 3.5. Tech4Dev Initiative.
+- ISO/IEC 27001:2022 – Information Security Management
+- Cisco Certificate – Introduction to Cybersecurity
+- Udemy: GRC Mastery Course
 
 
 ## Current Project:
