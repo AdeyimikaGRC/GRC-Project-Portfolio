@@ -128,3 +128,5 @@ The top management at RFK Hospitals demonstrates leadership and commitment to th
 4. **Promotion of Security Culture:** Awareness programs and internal campaigns are led by leadership to foster a security-conscious work environment across departments and locations.  
 5. **Communication of Importance:** Leadership communicates the importance of information security in newsletters, departmental briefings, and leadership roundtables, reinforcing that it is a shared responsibility.  
 6. **Review and Continual Improvement**: Through regular management reviews and feedback sessions, top management monitors ISMS performance and drives continual improvement.
+
+[Link to File](https://docs.google.com/document/d/1qlLw3mKcn_aeplEUhIKSgKozzucx5MTUmwl_rXLZ398/edit?tab=t.0)
