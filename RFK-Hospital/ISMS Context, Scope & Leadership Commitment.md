@@ -110,7 +110,7 @@ RFK Hospitals has established, implemented, and maintains an Information Securit
 
 The purpose of the ISMS is to protect the confidentiality, integrity, and availability of information across all operations.
 
-As defined in the scope (Clause 1.4), the ISMS covers all organizational operations, including on-site and remote environments, systems, services, and personnel handling sensitive data.
+As defined in the scope (1.4), the ISMS covers all organizational operations, including on-site and remote environments, systems, services, and personnel handling sensitive data.
 
 The ISMS is structured around key elements such as risk management, information security policies, operational controls, staff awareness, and continual improvement.
 
