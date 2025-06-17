@@ -1,9 +1,9 @@
 ## Hi there I'm Adeyinka! 👋 
 I help organizations protect what matters by building practical GRC (Governance, Risk, and Compliance) solutions.
 
-An emerging Cybersecurity GRC Analyst. With 4+ years in professional accounting, I bring a risk and controls-first mindset into cybersecurity, especially in areas like audits, compliance reporting, vendor reviews. Now, I'm applying that experience into building robust information security processes.
+An emerging Cybersecurity GRC Analyst. With 4+ years as a chartered Accountant, I’ve developed a strong focus on risk, internal controls, and regulatory compliance — skills that have been at the center of my work in the financial management and consulting industry. I now apply this foundation in cybersecurity, focusing on audits, compliance reporting, vendor risk, and building secure, policy-driven information systems.
 
-This GitHub repo is my learning lab — I document hands-on GRC projects, from ISO 27001 implementation for a fictional hospital to privacy policy design aligned with NDPR. This is where I turn my theoretical knwoledge into actionable frameworks and processes.
+This GitHub repo is my learning lab — I document hands-on GRC projects, from ISO 27001 implementation for a fictional hospital to privacy policy design aligned with NDPR. This is where I turn my theoretical knowledge into actionable frameworks and processes.
 
 ## What I’ve Achieved So Far
 
@@ -11,13 +11,14 @@ This GitHub repo is my learning lab — I document hands-on GRC projects, from I
 
 2. Designed privacy policies template tailored for influencers and content creators, ensuring GDPR/NDPR compliance and showcasing the importance of data privacy and security.
 
-3. Collaborated with group members on an in-depth spear-phishing analysis, identifying five key weaknesses and recommending more effective and proactive measures to reduce a reoccurence using employee awareness as part of a group project. 
+3. Collaborated with group members on an in-depth spear-phishing analysis, identifying five key weaknesses and recommending more effective and proactive measures to reduce a reoccurence using employee awareness as part of a group project.
+
+4. Shared practical cybersecurity and digital safety tips within my close community, promoting secure online habits and raising awareness about personal data protection in everyday digital use.
 
 ## Certification and Trainings
 - ISC² Certified in Cybersecurity (CC)
 - Women Techsters Bootcamp Cohort 3.5. Tech4Dev Initiative.
-- ISO/IEC 27001:2022 – Information Security Management
-- Cisco Certificate – Introduction to Cybersecurity
+- ISO/IEC 27001:2022 LA – Information Security Management
 - Udemy: GRC Mastery Course
 
 
