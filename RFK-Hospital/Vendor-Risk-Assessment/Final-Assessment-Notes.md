@@ -1,10 +1,10 @@
 Project Context
 
-This assessment was conducted to support RFK Specialist Hospital in mitigating payroll-related risks identified in the hospital’s risk register. After considering outsourcing as the treatment option, two potential payroll service providers (Vendor A and Vendor B) were evaluated using a structured due diligence questionnaire and risk assessment framework.
+This assessment was conducted to support RFK Specialist Hospital in mitigating payroll-related risks identified in the hospital’s risk register. After considering outsourcing as the treatment option, two potential payroll service providers (Payyab Solutions and ADS Ltd) were evaluated using a structured due diligence questionnaire and risk assessment framework.
 
 Common Strengths Across Both Vendors
 
-Both Vendor A and Vendor B demonstrated strong baseline controls:
+Both Payyab Solutions and ADS Ltd demonstrated strong baseline controls:
 
 - Human Resource Security: Employees are required to sign NDAs, with background checks conducted.
 
@@ -20,22 +20,23 @@ Both Vendor A and Vendor B demonstrated strong baseline controls:
 
 Distinctions Between Vendors
 
-While both vendors met the baseline, Vendor B presented stronger assurances and risk controls compared to Vendor A. Key distinctions include:
+While both vendors met the baseline, ADS Ltd presented stronger assurances and risk controls compared to Payyab Solutions. Key distinctions include:
 
-Public Company: Vendor B is a publicly listed company, which increases accountability and transparency compared to Vendor A (private).
+- Public Company: ADS Ltd is a publicly listed company, which increases accountability and transparency compared to Payyab Solutions(private).
 
-Breach History: Vendor B reported no security breaches within the past 3 years, unlike Vendor A, which had weaker assurance in this area.
+- Breach History: ADS Ltd reported no security breaches within the past 3 years, unlike Payyab Solutions, which had weaker assurance in this area.
 
-Policy Availability: Vendor B maintains several publicly available policies (beyond privacy policy), while Vendor A provided only a privacy policy and limited documentation.
+- Policy Availability: ADS Ltd maintains several publicly available policies (beyond privacy policy), while Payyab Solutions provided only a privacy policy and limited documentation.
 
-Physical Security: Vendor B operates onsite with robust controls—CCTV monitoring, physical security training, and visitor management. Vendor A, being fully remote, lacks comparable physical security measures.
+- Physical Security: ADS Ltd operates onsite with robust controls—CCTV monitoring, physical security training, and visitor management. Payyab Solutions, being fully remote, lacks comparable physical security measures.
+- Asset Inventory: ADS Ltd keeps a complete inventory list of all assets and constantly updated and reviewed, while Payyab Solutions do not have this. This is important so as to know when data are missing or have been stolen so it can be detected on time. 
 
 Assessment Conclusion
 
-Given the criticality of the hospital’s staff payroll information as an asset, higher assurance of security, accountability, and transparency was prioritized.
+The asses of the hospital in this case-study is the hospital’s staff payroll information,  and our priorities were higher assurance of security, accountability, and transparency, so with that, we realized:
 
-Vendor A: Medium risk profile, conditional acceptance. Improvements required in asset inventory, disposal processes, and frequency of security testing.
+- Payyab Solutions: Medium risk profile, conditional acceptance. Improvements required in asset inventory, disposal processes, and frequency of security testing.
 
-Vendor B: Lower risk profile, stronger governance and controls. Better suited for protecting sensitive payroll data.
+- ADS Ltd: Lower risk profile, stronger governance and controls. Better suited for protecting sensitive payroll data.
 
-✅ Selected Vendor: Vendor B
+Due to this, ADS Ltd was selected.
